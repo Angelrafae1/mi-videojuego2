@@ -1,0 +1,1 @@
+seleccionado = false;
